@@ -1,7 +1,5 @@
-using System;
-
-class Task3
-{
+    class Task3
+    {
     static void Main()
     {
         int[] numbers = { 3, 7, 12, 19, 21, 25, 30 };
